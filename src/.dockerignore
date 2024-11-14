@@ -1,0 +1,8 @@
+utilities/config.ini
+testing/*
+format.sh
+setup.py
+
+__pycache__/
+
+venv
